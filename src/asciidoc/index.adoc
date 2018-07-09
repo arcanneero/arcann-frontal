@@ -1,0 +1,16 @@
+= Documentation de la Fabrique
+:toc: left
+:toclevels: 5
+:module-commun: docs-fabrique
+:module-nti: docs-nti
+:module-plm: docs-plm
+:module-transition: docs-transition
+
+== Outils
+
+* link:http://docs-fabrique-grtgaz.gop.link[Documentation NTI]
+* link:http://testlink-fabrique-grtgaz.gop.link/testlink/[Testlink]
+* link:http://squashtest-fabrique-grtgaz.gop.link/squash-tm/[Squash test]
+
+== Applications
+
